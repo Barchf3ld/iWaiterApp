@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Barchf3ld/iWaiterApp/blob/main/fe/src/assets/images/logogreen.svg" width="420" height="250"/>
+  <img src="https://github.com/Barchf3ld/iWaiterApp/blob/main/fe/src/assets/images/logogreen.svg" width="620" height="250"/>
 </div>
 <br />
 
