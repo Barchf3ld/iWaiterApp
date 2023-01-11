@@ -34,7 +34,8 @@ O backend armazena os dados em um banco de dados __MongoDb__ e interage com o fr
 ## :camera_flash: Screenshots
 
 <div align="center">
-![](https://github.com/Barchf3ld/iWaiterApp/blob/main/fe/src/assets/images/mobile.gif)<br />
+
+![](https://github.com/Barchf3ld/iWaiterApp/blob/main/fe/src/assets/images/mobile.gif) <br />
 ![](https://github.com/Barchf3ld/iWaiterApp/blob/main/fe/src/assets/images/web.gif)
 </div>
 
