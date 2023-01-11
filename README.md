@@ -8,8 +8,8 @@ A aplicação permite lançar pedidos no celular e fechar os pedidos na aplicaç
 Foi desenvolvido uma API em Node, um front-end em React e um aplicativo mobile em React Native.<br />
 <br />
 O backend armazena os dados em um banco de dados __MongoDb__ e interage com o front-end por meio de __WebSockets__.<br/>
-
 <br />
+
 ## :hammer_and_wrench: Tecnologias
 * Back-end
   * __Node__ + __Express__ + __Typescript__
@@ -30,13 +30,16 @@ O backend armazena os dados em um banco de dados __MongoDb__ e interage com o fr
 <br />
 
 <br />
+
 ## :camera_flash: Screenshots
+
 <div align="center">
 ![](https://github.com/Barchf3ld/iWaiterApp/blob/main/fe/src/assets/images/mobile.gif)<br />
 ![](https://github.com/Barchf3ld/iWaiterApp/blob/main/fe/src/assets/images/web.gif)
 </div>
 
 <br />
+
 ## :email: Contato
 
 E-mail: [**contato@matheusbarchfeld.com.br**](mailto:contati@matheusbarchfeld.com.br)
