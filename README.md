@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Barchf3ld/iWaiterApp/blob/main/fe/src/assets/images/logogreen.svg" />
 </div>
-
+<br />
 
 ## Sobre a aplicação
 A aplicação permite lançar pedidos no celular e fechar os pedidos na aplicação web. Os pedidos podem estar na situação Aguardando, Em preparação ou Finalizado
@@ -9,7 +9,7 @@ Foi desenvolvido uma API em Node, um front-end em React e um aplicativo mobile e
 <br />
 O backend armazena os dados em um banco de dados __MongoDb__ e interage com o front-end por meio de __WebSockets__.<br/>
 
-
+<br />
 ## :hammer_and_wrench: Tecnologias
 * Back-end
   * __Node__ + __Express__ + __Typescript__
@@ -29,12 +29,14 @@ O backend armazena os dados em um banco de dados __MongoDb__ e interage com o fr
   * __DotEnv__ para variáveis de ambiente
 <br />
 
-
+<br />
 ## :camera_flash: Screenshots
-![](https://github.com/Barchf3ld/iWaiterApp/blob/main/fe/src/assets/images/mobile.gif)
+<div align="center">
+![](https://github.com/Barchf3ld/iWaiterApp/blob/main/fe/src/assets/images/mobile.gif)<br />
 ![](https://github.com/Barchf3ld/iWaiterApp/blob/main/fe/src/assets/images/web.gif)
+</div>
 
-
+<br />
 ## :email: Contato
 
 E-mail: [**contato@matheusbarchfeld.com.br**](mailto:contati@matheusbarchfeld.com.br)
