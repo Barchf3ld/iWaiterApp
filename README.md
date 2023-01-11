@@ -6,6 +6,7 @@
 
 ## Sobre a aplicação
 Desenvolvido para gerenciar os pedidos de maneira eficiente e simples, podendo ser usado diretamente por um garçom ou cliente final, apenas adotando algumas mudanças simples no sistema.<br />
+<br />
 A aplicação permite lançar pedidos no celular e fechar os pedidos na aplicação web. Os pedidos podem ficar nos seguintes status: Aguardando, Em preparação e Finalizado.<br />
 Foi desenvolvido uma API em Node, um front-end em React e um aplicativo mobile em React Native.<br />
 <br />
