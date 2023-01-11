@@ -1,11 +1,6 @@
-<table>
-  <tr>
-    <td><img src="https://github.com/Barchf3ld/iWaiterApp/blob/main/fe/src/assets/images/logogreen.svg" /></td>
-  <tr>
-  </tr>
-    <td><h1>iWAITER - O APP DO GARÇOM</h1></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github.com/Barchf3ld/iWaiterApp/blob/main/fe/src/assets/images/logogreen.svg" />
+</div>
 
 
 ## Sobre a aplicação
@@ -37,7 +32,7 @@ O backend armazena os dados em um banco de dados __MongoDb__ e interage com o fr
 
 ## :camera_flash: Screenshots
 ![](https://github.com/Barchf3ld/iWaiterApp/blob/main/fe/src/assets/images/mobile.gif)
-![](https://github.com/Barchf3ld/iWaiterApp/blob/main/fe/src/assets/images/mobile.gif)
+![](https://github.com/Barchf3ld/iWaiterApp/blob/main/fe/src/assets/images/web.gif)
 
 
 ## :email: Contato
